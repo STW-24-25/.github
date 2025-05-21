@@ -13,4 +13,4 @@ Además, integra **mapas interactivos** para visualizar los datos de las parcela
   Documentación
 </h2>
 
-La documentación principal del proyecto se encuentra en el repositorio de [Backend](https://github.com/STW-24-25/Backend/blob/develop/doc/README.md).
+La documentación principal del proyecto se encuentra en el repositorio de [Backend](https://github.com/STW-24-25/Backend/blob/main/doc/README.md).
